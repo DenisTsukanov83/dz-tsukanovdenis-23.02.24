@@ -1,0 +1,23 @@
+.step {
+    background-color: rgb(255, 249, 243);
+    padding: 10px 30px;
+}
+
+.step-title {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.step-title h3 {
+    color: rgb(229, 72, 27);
+}
+
+.step-title span {
+    color: rgb(114, 147, 75);
+}
+
+.step>ul {
+    padding: 0 100px;
+}
+

@@ -1,0 +1,13 @@
+header {
+    background-color: rgb(255, 249, 243);
+    padding: 15px 30px;
+}
+
+h1 {
+    color: rgb(229, 72, 27);
+}
+
+.header-wrapper {
+    display: flex;
+    gap: 15px;
+}

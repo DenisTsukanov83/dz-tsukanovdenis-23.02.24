@@ -1,0 +1,24 @@
+.products {
+    background-color: rgb(213, 226, 170);
+    padding-bottom: 15px;
+}
+
+.products-title {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-left: 15px;
+}
+
+.products-title h3 {
+    color: rgb(229, 72, 27);
+}
+
+.products-title span {
+    color: rgb(114, 147, 75);
+}
+
+.products>ul {
+    padding: 0;
+}
+
